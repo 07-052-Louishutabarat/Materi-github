@@ -1,3 +1,2 @@
-1.slayer
 2.nametag
 3.bukang
